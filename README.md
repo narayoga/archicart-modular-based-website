@@ -9,9 +9,9 @@ kunjungi situs [Archicart](https://archicart.web.app/)
 
 ## memulai dengan repository 
 
-archicart dibangun dengan library react
-### `git clone https://github.com/narayoga/archicart-modular-based-website.git`
-### `npm install`
-### `npm start`
-### `buka [http://localhost:3000](http://localhost:3000) untuk melihat project pada browser anda`
+###archicart dibangun dengan library react
+`git clone https://github.com/narayoga/archicart-modular-based-website.git`
+`npm install`
+`npm start`
+`buka [http://localhost:3000](http://localhost:3000) untuk melihat project pada browser anda`
 
