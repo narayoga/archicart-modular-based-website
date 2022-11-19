@@ -9,7 +9,7 @@ kunjungi situs [Archicart](https://archicart.web.app/)
 
 ## memulai dengan repository 
 
-### archicart dibangun dengan library react
+archicart dibangun dengan library react, berikut cara memulai dengan code editor anda:
 
 `git clone https://github.com/narayoga/archicart-modular-based-website.git`
 
